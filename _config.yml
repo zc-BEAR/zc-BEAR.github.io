@@ -63,3 +63,5 @@ nav:
 # paginate_path: "page/:num/"
 
 
+
+theme: jekyll-theme-time-machine
