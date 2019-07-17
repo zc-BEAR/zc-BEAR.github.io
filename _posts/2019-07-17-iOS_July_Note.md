@@ -6,15 +6,25 @@ tag: iOS
 ---
 
 ### 博客样板
+<p>
 ---
+<p>	
 layout: post
+<p>	
 title: your title
+<p>	
 date:yyyy-mm-dd
+<p>	
 tag: tags
+<p>	
 ---
+<p>	
 正文：
+<p>	
 xxxxxxxxxxxxxxx
+<p>	
 最后可以附上一些其他附加内容
+<p>	
 
 ### 打开新世界的大门
 hello，world！
