@@ -6,26 +6,24 @@ description: "新的起点"
 tag: template
 ---
 
-
-
 ### 博客样板
-<p>
+
 ---
-<p>	
+
 layout: post
-<p>	
+
 title: your title
-<p>	
+
 date:yyyy-mm-dd
-<p>	
+
 tag: tags
-<p>	
+
 ---
-<p>	
+
 正文：
-<p>	
+
 xxxxxxxxxxxxxxx
-<p>	
+
 最后可以附上一些其他附加内容
 
 ### TEST
