@@ -25,7 +25,8 @@ social:
     mail: zc.xiong@qq.com
 
 
-
+# 去除摘要
+excerpt_separator: 
 
 permalink: /:year/:month/:title/
 # Format
