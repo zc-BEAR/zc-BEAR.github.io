@@ -1,7 +1,11 @@
 # Basic
 title: Xiong
 subtitle: 个人站
-description: GOOD GOOD STUDY DAY DAY UP
+description: 
+    GOOD GOOD STUDY 
+
+    DAY DAY UP
+    
 # 头像里面的标题
 avatarTitle: Xiong
 # 头像里面的描述
@@ -26,7 +30,7 @@ social:
 
 
 # 去除摘要
-excerpt_separator: 
+excerpt_separator: ""
 
 permalink: /:year/:month/:title/
 # Format
