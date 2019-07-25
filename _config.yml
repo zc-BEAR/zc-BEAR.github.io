@@ -5,7 +5,7 @@ description:
     GOOD GOOD STUDY 
 
     DAY DAY UP
-    
+
 # 头像里面的标题
 avatarTitle: Xiong
 # 头像里面的描述
@@ -27,10 +27,6 @@ social:
     # jianshu: 
     # twitter: 
     mail: zc.xiong@qq.com
-
-
-# 去除摘要
-excerpt_separator: ""
 
 permalink: /:year/:month/:title/
 # Format
