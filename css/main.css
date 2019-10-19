@@ -120,13 +120,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.2em; 
-  text-indent: 5px; 
-  border-radius: 5px; 
+  font-size: 1.4em; 
+  text-indent: 6px; 
+  border-radius: 6px; 
   padding: 6px 15px;
-  margin-bottom: 20px;
-  margin-top: 5px;
-  background:#FF00FF;
+  margin-bottom: 24px;
+  margin-top: 6px;
+  background:#85FF84;
   /*0px right, 5px botton, 5px fuzzy*/
   box-shadow: 0px 5px 5px #9FB6CD;
   border-left: 6px solid #800080; 
