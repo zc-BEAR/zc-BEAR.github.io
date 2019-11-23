@@ -61,6 +61,6 @@ struct TreeNode{
 
 以上就是四种旋转的方式，只看文字可能比较抽象，下面贴两张图片举例子来表示失衡的四种情况。
 
-![avatar](2019-11-24-AdvanceTree\lostBalance1.jpg)
+![avatar](\2019-11-24-AdvanceTree\lostBalance1.jpg)
 
-![avatar](2019-11-24-AdvanceTree\lostBalance2.jpg)
+![avatar](\2019-11-24-AdvanceTree\lostBalance2.jpg)
