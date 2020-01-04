@@ -339,7 +339,7 @@ Treap是一种也实现了平衡二叉树功能的二叉树，拥有较容易实
 
 > 2) h is odd :
 
-> $Nodes -> f(h) \geq 1 + f(h-1) + f(h-2) \geq 2f(h-1) \geq 4f(h-4) \geq$ ... \geq2^{(h-1)/2}f(0)$
+> $Nodes -> f(h) \geq 1 + f(h-1) + f(h-2) \geq 2f(h-1) \geq 4f(h-4) \geq ... \geq2^{(h-1)/2}f(0)$
 
 > $\therefore h \leq 2log(n-2)+1$
 
