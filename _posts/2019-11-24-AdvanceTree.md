@@ -332,11 +332,11 @@ Treap是一种也实现了平衡二叉树功能的二叉树，拥有较容易实
 分奇偶讨论：
 
 > 1) h is even :
-> $Nodes -> f(h) = 1 + f(h-1) + f(h-2) \geq 2f(h-1) \geq 4f(h-4) \geq ... \geq 2^{h/2}f(0)$
-> \therefore h \leq 2log(n-2)
+> Nodes -> f(h) = 1 + f(h-1) + f(h-2) $\geq$ 2f(h-1) $\geq$ 4f(h-4) $\geq$ ... $\geq 2^{h/2}f(0)$
+> $\therefore$ h $\leq$ 2log(n-2)
 > 2) h is odd :
-> $Nodes -> f(h) \geq 1 + f(h-1) + f(h-2) \geq 2f(h-1) \geq 4f(h-4) \geq ... \geq2^{(h-1)/2}f(0)$
-> \therefore h \leq 2log(n-2)+1
+> Nodes -> f(h) $\geq$ 1 + f(h-1) + f(h-2) $\geq$ 2f(h-1) $\geq$ 4f(h-4) $\geq$ ... $\geq2^{(h-1)/2}f(0)$
+> $\therefore$ h $\leq$ 2log(n-2)+1
 
 #### 第二个证明：把长度为n的数组建成二叉堆的复杂度为O(n)
 
