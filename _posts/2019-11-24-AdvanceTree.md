@@ -10,7 +10,7 @@ tag: algorithm
 ##### tips：虽然本人用JAVA更熟练，但是考虑到算法题中大多使用C++来实现，并且我也在龟速学习C++，这个标签下的代码都是C++代码。
 
 ### 小目录：记录这一章要讲些什么
- 
+
 * BST 二叉查找树的构建和操作
 * BBST 平衡二叉查找树(解决二叉树失衡退化成链表的问题)[AVL-tree][treap]
 * 一些证明：BBST的高度为O(logn),
@@ -110,9 +110,9 @@ class AVLTreeNode{
 
 以上就是四种旋转的方式，只看文字可能比较抽象，下面贴两张图片举例子来表示失衡的四种情况。
 
-![avatar](\2019-11-24-AdvanceTree\lostBalance1.jpg)
+![avatar](https://github.com/zc-BEAR/zc-BEAR.github.io/tree/master/_posts/2019-11-24-AdvanceTree/lostBalance1.jpg)
 
-![avatar](\2019-11-24-AdvanceTree\lostBalance2.jpg)
+![avatar](https://github.com/zc-BEAR/zc-BEAR.github.io/tree/master/_posts/2019-11-24-AdvanceTree/lostBalance2.jpg)
 
 图片来自[CSDN博客](https://blog.csdn.net/u013149325/article/details/41381607)
 
