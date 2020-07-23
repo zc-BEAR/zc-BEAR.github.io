@@ -110,9 +110,9 @@ class AVLTreeNode{
 
 以上就是四种旋转的方式，只看文字可能比较抽象，下面贴两张图片举例子来表示失衡的四种情况。
 
-![avatar](https://github.com/zc-BEAR/zc-BEAR.github.io/tree/master/_posts/2019-11-24-AdvanceTree/lostBalance1.jpg)
+![avatar](/images/posts/2019-11-24-AdvanceTree/lostBalance1.jpg)
 
-![avatar](https://github.com/zc-BEAR/zc-BEAR.github.io/tree/master/_posts/2019-11-24-AdvanceTree/lostBalance2.jpg)
+![avatar](/images/posts/2019-11-24-AdvanceTree/lostBalance2.jpg)
 
 图片来自[CSDN博客](https://blog.csdn.net/u013149325/article/details/41381607)
 
