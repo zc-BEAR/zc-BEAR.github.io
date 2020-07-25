@@ -120,10 +120,10 @@ h2 {
   padding: 6px 15px;
   margin-bottom: 24px;
   margin-top: 6px;
-  background:#C39BD3;
+  /*background:#C39BD3;*/
   /*0px right, 5px botton, 5px fuzzy*/
-  box-shadow: 0px 5px 5px #9FB6CD;
-  border-left: 6px solid #6C3483; 
+  /*box-shadow: 0px 5px 5px #9FB6CD;*/
+  /*border-left: 6px solid #6C3483; */
   position:relative;
   /*background:#B9D3EE;*/
   /*text-align: center;*/
